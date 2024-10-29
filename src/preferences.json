@@ -1,0 +1,12 @@
+{
+	"port":{
+		"port":"",
+		"baud":15200,
+		"parity":0,
+		"data":8,
+		"stop":1,
+		"flow":0
+	},
+	"timestamp":0,
+	"ontop":0
+}
